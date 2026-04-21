@@ -13,5 +13,6 @@ the dashboard using follwing tools
 * file format - .pbix for development
 
 screenshot -
+https://github.com/nileshsawkare/HR-ANALYTICS-DASHBOARD-PB/blob/main/HR%20ANALYTICS%20DASHBOARD.png
 
 
